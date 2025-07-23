@@ -1,4 +1,4 @@
-# WBB Hub
+# WBB Hub 
 
 **WBB Hub** is a cross‑platform Flutter application that brings real‑time women’s basketball (WNBA & NCAA) data, insights, and community features to fans everywhere.
 
